@@ -34,7 +34,7 @@ Research Interests:
 # 🎓 Educations 
 - **Doctor**, Ph.D., Dongshin University, Jeollanam do, South Korea, supervisor: Prof. Kwon JaeHwan
 - **Master**, Education Management, INTI International University, Negeri Sembilan, Malaysia, supervisor: Prof. Gerald Victor Richard Joseph
-- **Undergraduate**, Management, College of Science, Yanbian University, Yanji China. 
+- **Undergraduate**, Management, Beijing Jiaotong University, China. 
  
 
 <span class='anchor' id='-publications'></span>
@@ -64,10 +64,10 @@ Research Interests:
 
 <span class='anchor' id='-projects'></span>
 # 📝 Research projects
-- 2023.11 (Host), Quanzhou Philosophy and Social Sciences Research Planning Project (project number: 2022H25), research on strengthening innovation and entrepreneurship education in private vocational colleges in Quanzhou based on the vision of "Internet plus"
+- 2023.11 (Host), Quanzhou Philosophy and Social Sciences Research Planning Project (Project No. 2022SSK087), research on strengthening innovation and entrepreneurship education in private vocational colleges in Quanzhou based on the vision of "Internet plus"
 - 2023.03 (Host), Key Project of Philosophy and Social Sciences in Shishi City in 2022 (Project No. 2022SSK087), Exploration of Countermeasures for Vocational Colleges to Carry out "Double Innovation" Education and Promote College Students to Return to Shishi for Entrepreneurship under the Background of Rural Revitalization
-- 2023.12 (Host), 2022 Quanzhou Ocean Vocational College Campus level Project (Project Number: QH202228), Research on Innovation and Entrepreneurship Mechanisms for College Students in Higher Vocational Colleges under the Background of the New Era [Conclusion]
-- 2024.04 (Main participant), the Key Project of Philosophy and Social Sciences in Shishi City in 2023 (Project No.: 2023SSK072), Research on Optimizing the Business Environment in Shishi City - Building a Digital Business Environment
+- 2023.12 (Host), 2022 Quanzhou Ocean Vocational College Campus level Project (Project No. 2022SSK087), Research on Innovation and Entrepreneurship Mechanisms for College Students in Higher Vocational Colleges under the Background of the New Era
+- 2024.04 (Main participant), the Key Project of Philosophy and Social Sciences in Shishi City in 2023 (Project No. 2023SSK072), Research on Optimizing the Business Environment in Shishi City - Building a Digital Business Environment
 
 
 # 🏅 Honors and Awards
