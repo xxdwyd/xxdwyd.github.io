@@ -26,9 +26,9 @@ author:
   bio              : "Dongshin University"
   location         : "Jeollanam-do, South Korea"
   employer         : #"Dongshin University"
-  googlescholar    : "tpqTLLsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=tpqTLLsAAAAJ"
   email            : "ethanwu0525@gmail.com"
-  researchgate     : "Yundong-Wu"
+  researchgate     : "https://www.researchgate.net/profile/Yundong-Wu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -44,7 +44,7 @@ author:
   lastfm           :
   linkedin         : "yundong-wu-b68705114/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "0009-0007-4687-7149"
+  orcid            : "https://orcid.org/0009-0007-4687-7149"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
