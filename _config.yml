@@ -26,9 +26,9 @@ author:
   bio              : "Dongshin University"
   location         : "Jeollanam-do, South Korea"
   employer         : #"Dongshin University"
-  googlescholar    : #"https://scholar.google.com/citations?user=tpqTLLsAAAAJ"
+  googlescholar    : "tpqTLLsAAAAJ"
   email            : "ethanwu0525@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/Yundong-Wu"
+  researchgate     : "Yundong-Wu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -42,9 +42,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yundong-wu-b68705114/"
+  linkedin         : "yundong-wu-b68705114/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0007-4687-7149"
+  orcid            : "0009-0007-4687-7149"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -55,7 +55,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://baike.baidu.com/item/%E5%90%B4%E4%BA%91%E4%B8%9C/23518165"
+  wikipedia        : # "https://baike.baidu.com/item/%E5%90%B4%E4%BA%91%E4%B8%9C/23518165"
 
 
 # Reading Files
