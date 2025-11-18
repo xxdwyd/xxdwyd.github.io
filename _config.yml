@@ -18,8 +18,12 @@ google_analytics_id      :  G-GPSEM4BG5H # get google_analytics_id from https://
 google_site_verification : -t3H4GiTffZdEILXva70gQKslBwZpIL3V-sXsL7Tu4U # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   : CCEDAC2E01970A0FD50F6305A857460B # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
+    <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=gb2312" />
+    <meta name="sogou_site_verification" content="N4PBmCG7Jp" />
+    </head>
 # Site Author
+
 author:
   name             : "Wu Yundong"
   avatar           : "https://free.picui.cn/free/2025/11/16/69196a910cd31.jpg"
