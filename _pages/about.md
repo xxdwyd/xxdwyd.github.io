@@ -54,6 +54,9 @@ Research Interests:
 - Kong, W., & **Wu, Y**. (2025). An Investigation into the Relationship Between Emotion, Cognitive Flexibility, and Mental Health Among College Students Based on Gender Differences and Its Mediating Mechanisms. Frontiers in Preventive Medicine, 1(2), 36-46. [[HTML]](https://www.researchgate.net/publication/397166439)
 - **Wu, Y**, & Kong, W. (2025). The Synergistic Effect of Emotion and Cognition under Gender Regulation on College Students' Mental Health: An Intermediary Analysis. Intersections: Humanities, Education, and Social Sciences, 1(1), 1-15.[[HTML]](https://lumenpublishing.org/index.php/IHES/article/view/15)
 - **Wu, Y**, & Kong, W. (2025) A Study on Mechanisms Influencing Subjective Well-Being among Art and Design Majors: An Integrated Analysis of Social Support, Psychological Resilience, and Major Satisfaction. Journal of Social Development and History, 1(4), 1-10.
+- **Wu, Y**, Kong, W., & Lin, R. (2025). A Multidimensional Analysis of Social Responsibility Among Nursing College Students: A Perspective Based on Educational Environment and Personal Traits. Frontiers in Educational Innovation and Research, 1(3), 71–80. https://doi.org/10.62762/FEIR.2025.201639
+- **Wu, Y**. (2025). Integrating Artificial Intelligence into Education: Opportunities, Challenges, and Response Strategies. Al Lnnovations and Applications, 1(1), 115-124. https://doi.org/10.63944/sj51.AIA
+- **吴云东** , & 孔. (2026). 学业自我效能感与人工智能依赖的关系研究——基于泉州市高职院校大学生的实证分析. Frontiers of Social Sciences and Humanities, 1(1). Retrieved from http://www.axonpublishing.org/index.php/rwshkqy/article/view/52
 - **吴云东** & 孔维俭. (2024). 高校青年志愿服务活动的现状及对策分析——以福建省泉州市为例. 志愿青年学刊, 23, 103-107.
 - **吴云东**, 林若凡 & 孔维俭. (2025). 护理专业大学生社会责任感的多维度分析：基于教育环境与个人特质的视角. 医学与健康科学研究, 1(1), 12–21. [[HTML]](https://www.researchgate.net/publication/397121005)
 - **吴云东**, 孔维俭, 吕婷婷 & 李锦涛. (2025). 毅力特质、成就目标定向与高中生数学学业成绩的关联性研究. 教育与教法, 1(1), 29–34. [[HTML]](https://www.researchgate.net/publication/392747655)
@@ -64,10 +67,11 @@ Research Interests:
 
 <span class='anchor' id='-projects'></span>
 # 📝 Research projects
-- 2023.11 (Host), Quanzhou Philosophy and Social Sciences Research Planning Project (Project No. 2022SSK087), research on strengthening innovation and entrepreneurship education in private vocational colleges in Quanzhou based on the vision of "Internet plus"
-- 2023.03 (Host), Key Project of Philosophy and Social Sciences in Shishi City in 2022 (Project No. 2022SSK087), Exploration of Countermeasures for Vocational Colleges to Carry out "Double Innovation" Education and Promote College Students to Return to Shishi for Entrepreneurship under the Background of Rural Revitalization
-- 2023.12 (Host), 2022 Quanzhou Ocean Vocational College Campus level Project (Project No. 2022SSK087), Research on Innovation and Entrepreneurship Mechanisms for College Students in Higher Vocational Colleges under the Background of the New Era
+- 2023.11 (Principal Investigator), Quanzhou Philosophy and Social Sciences Research Planning Project (Project No. 2022SSK087), research on strengthening innovation and entrepreneurship education in private vocational colleges in Quanzhou based on the vision of "Internet plus"
+- 2023.03 (Principal Investigator), Key Project of Philosophy and Social Sciences in Shishi City in 2022 (Project No. 2022SSK087), Exploration of Countermeasures for Vocational Colleges to Carry out "Double Innovation" Education and Promote College Students to Return to Shishi for Entrepreneurship under the Background of Rural Revitalization
+- 2023.12 (Principal Investigator), 2022 Quanzhou Ocean Vocational College Campus level Project (Project No. 2022SSK087), Research on Innovation and Entrepreneurship Mechanisms for College Students in Higher Vocational Colleges under the Background of the New Era
 - 2024.04 (Main participant), the Key Project of Philosophy and Social Sciences in Shishi City in 2023 (Project No. 2023SSK072), Research on Optimizing the Business Environment in Shishi City - Building a Digital Business Environment
+- 2025.04 (Principal Investigator), Ministry of Education 2025 Special Project on Sino-Foreign People-to-People Exchange in Family Education, A Comparative Study on the Collaborative Mechanisms of Home-School Education between China and the United States: From the Perspective of Institutionalization of Family Education and Public Education Support 【Ongoing】
 
 
 # 🏅 Honors and Awards
@@ -94,6 +98,7 @@ Research Interests:
 - 2023.03, Second and Third Prizes in the "Wisdom of Fujian People" Series Themed Essay Competition hosted by the Fujian Provincial Education Work Committee of the Communist Youth League (guiding students)
 - 2023.08, First, Second, and Third Prizes in the Fujian Provincial Division of the National College Students' E-commerce "Innovation, Creativity, and Entrepreneurship" Competition (guiding students)
 - 2025.10, Third Prize in the Shandong Provincial College Students' Maker Competition hosted by the Shandong Provincial Department of Education and the Provincial Committee of the Communist Youth League (guiding students)
+- 2025.11, First Prize in the 2025 Anhui Provincial Youth Environmental Protection Science Popularization and Thematic Essay Exhibition (Student Supervision).
 
 <span class='anchor' id='-conferences'></span>
 
@@ -111,8 +116,10 @@ Research Interests:
 - 2024.10, Expert for "Science and Technology Innovation China" (hosted by the China Association for Science and Technology)
 - 2025.01, Expert in Public Services for Small and Medium-sized Enterprises in Jiangsu Province (hosted by the Jiangsu Small and Medium-sized Enterprise Development Center)
 - 2025.05, Editor of the journal "Education and Teaching Methods"
+- 2025.07, Board Member, Art Research Committee, Asian Institute of Business Research
 - 2024.10, Editor of the journal "The International Theory and Practice in Humanities and Social Sciences"
 - 2024.11, Reviewer for the journal "International Journal of Humanity, Social Science & Legal Research"
 - 2025.10, Editor-in-Chief of the journal "Frontiers in Preventive Medicine"
-- 2025.11, Editor of the journal "Journal of Innovation and Entrepreneurship Studies"
+- 2025.11, Editorial Board Member of the journal "Journal of Innovation and Entrepreneurship Studies"
+- 2026.01, Editorial Board Member of the journal "Huaxia Education Journal"
 
