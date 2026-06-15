@@ -125,4 +125,5 @@ Research Interests:
 - 2025.10, Editor-in-Chief of the journal "Frontiers in Preventive Medicine"
 - 2025.11, Editorial Board Member of the journal "Journal of Innovation and Entrepreneurship Studies"
 - 2026.01, Editorial Board Member of the journal "Huaxia Education Journal"
+- 2026.06, Editorial Board Member of the journal "Global Education Bulletin"
 
