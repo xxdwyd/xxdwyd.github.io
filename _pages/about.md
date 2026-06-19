@@ -126,4 +126,4 @@ Research Interests:
 - 2025.11, Editorial Board Member of the journal "Journal of Innovation and Entrepreneurship Studies"
 - 2026.01, Editorial Board Member of the journal "Huaxia Education Journal"
 - 2026.06, Editorial Board Member of the journal "Global Education Bulletin"
-
+- 2026.06, Editorial Board Member of the journal "Scientific Navigation"
